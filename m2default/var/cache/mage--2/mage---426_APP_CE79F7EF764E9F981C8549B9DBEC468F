@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1619066991;s:6:"expire";i:1619074191;s:4:"tags";s:49:"426_STORE,426_CONFIG,426_COLLECTION_DATA,426_MAGE";}
+[{"store_id":"1","code":"default","website_id":"1","group_id":"1","name":"Default Store View","sort_order":"0","is_active":"1"},{"store_id":"3","code":"hometitude_store_view","website_id":"1","group_id":"2","name":"Hometitude Store View","sort_order":"0","is_active":"1"},{"store_id":"2","code":"hometitude","website_id":"1","group_id":"1","name":"hometitude","sort_order":"2","is_active":"1"}]

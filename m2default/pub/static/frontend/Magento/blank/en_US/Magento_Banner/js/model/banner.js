@@ -1,0 +1,1 @@
+/home/dev/Projects/m2default/vendor/magento/module-banner/view/frontend/web/js/model/banner.js

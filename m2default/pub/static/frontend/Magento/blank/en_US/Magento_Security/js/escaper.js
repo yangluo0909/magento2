@@ -1,0 +1,1 @@
+/home/dev/Projects/m2default/vendor/magento/module-security/view/base/web/js/escaper.js

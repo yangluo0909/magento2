@@ -1,0 +1,1 @@
+/home/dev/Projects/m2default/vendor/magento/module-page-builder/view/base/web/js/widget-initializer.js

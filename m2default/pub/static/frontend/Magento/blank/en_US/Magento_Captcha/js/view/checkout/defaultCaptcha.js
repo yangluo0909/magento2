@@ -1,0 +1,1 @@
+/home/dev/Projects/m2default/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/defaultCaptcha.js

@@ -1,0 +1,1 @@
+/home/dev/Projects/m2default/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js
